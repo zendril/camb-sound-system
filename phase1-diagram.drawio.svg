@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1201px" height="841px" viewBox="-0.5 -0.5 1201 841" content="&lt;mxfile host=&quot;app.diagrams.net&quot; agent=&quot;GitHub Copilot&quot; version=&quot;24.7.17&quot;&gt;&lt;diagram name=&quot;Phase 1 Sound System&quot; id=&quot;phase1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+  <defs/>
+  <g>
+    <!-- Title -->
+    <rect x="0" y="0" width="1200" height="40" fill="#0066cc" stroke="none" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1198px; height: 1px; padding-top: 20px; margin-left: 1px;">
+            <div data-drawio-colors="color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 20px; font-family: Helvetica; color: rgb(255, 255, 255); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Phase 1 Sound System Diagram</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="600" y="26" fill="#ffffff" font-family="Helvetica" font-size="20px" text-anchor="middle" font-weight="bold">Phase 1 Sound System Diagram</text>
+      </switch>
+    </g>
+    
+    <!-- Power/Rack Section (Bottom Center) -->
+    <rect x="450" y="700" width="300" height="120" rx="12" ry="12" fill="#f5f5f5" stroke="#666666" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 298px; height: 1px; padding-top: 715px; margin-left: 451px;">
+            <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">8U Rack Case</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="600" y="718" fill="#333333" font-family="Helvetica" font-size="11px" text-anchor="middle" font-weight="bold">8U Rack Case</text>
+      </switch>
+    </g>
+    <rect x="470" y="735" width="260" height="35" rx="5" ry="5" fill="#ff9999" stroke="#cc0000" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 753px; margin-left: 471px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Power Conditioner</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="600" y="756" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle" font-weight="bold">Power Conditioner</text>
+      </switch>
+    </g>
+    
+    <!-- XR18 Mixer (Center) -->
+    <rect x="470" y="480" width="260" height="80" rx="8" ry="8" fill="#66b3ff" stroke="#0066cc" stroke-width="3" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 520px; margin-left: 471px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Behringer X Air XR18<br />Digital Mixer<br />(18 Input Channels)</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="600" y="524" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle" font-weight="bold">Behringer X Air XR18...</text>
+      </switch>
+    </g>
+    
+    <!-- Tablet (Next to mixer) -->
+    <rect x="780" y="490" width="120" height="60" rx="8" ry="8" fill="#99ff99" stroke="#009900" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 520px; margin-left: 781px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Tablet<br />(WiFi Control)</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="840" y="523" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle" font-weight="bold">Tablet...</text>
+      </switch>
+    </g>
+    
+    <!-- WiFi connection (dashed line) -->
+    <path d="M 730 520 L 780 520" fill="none" stroke="#009900" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 510px; margin-left: 755px;">
+            <div data-drawio-colors="color: #009900; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 153, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">WiFi</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="755" y="513" fill="#009900" font-family="Helvetica" font-size="9px" text-anchor="middle">WiFi</text>
+      </switch>
+    </g>
+    
+    <!-- QSC K12.2 Speaker (Right) -->
+    <path d="M 900 330 L 980 280 L 980 380 Z" fill="#ffcc99" stroke="#cc6600" stroke-width="3" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 330px; margin-left: 901px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">QSC<br />K12.2<br />Speaker</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="940" y="334" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle" font-weight="bold">QSC...</text>
+      </switch>
+    </g>
+    
+    <!-- Speaker Cable from XR18 to Speaker -->
+    <path d="M 700 480 Q 700 430 800 380 Q 900 330 900 330" fill="none" stroke="#cc6600" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 395px; margin-left: 780px;">
+            <div data-drawio-colors="color: #cc6600; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(204, 102, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">XLR Speaker Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="780" y="398" fill="#cc6600" font-family="Helvetica" font-size="9px" text-anchor="middle">XLR Speaker Cable</text>
+      </switch>
+    </g>
+    
+    <!-- Left Shotgun Mic AT875R -->
+    <ellipse cx="120" cy="80" rx="15" ry="15" fill="#cccccc" stroke="#666666" stroke-width="2" pointer-events="all"/>
+    <path d="M 120 95 L 120 230" fill="none" stroke="#666666" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 100 230 L 140 230 L 140 270 L 100 270 Z" fill="#999999" stroke="#666666" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 130px; margin-left: 71px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">AT875R<br />Shotgun Mic<br />(Left)</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="120" y="133" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle" font-weight="bold">AT875R...</text>
+      </switch>
+    </g>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 250px; margin-left: 101px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Boom<br />Stand</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="120" y="252" fill="#000000" font-family="Helvetica" font-size="8px" text-anchor="middle">Boom...</text>
+      </switch>
+    </g>
+    
+    <!-- Right Shotgun Mic AT875R -->
+    <ellipse cx="280" cy="80" rx="15" ry="15" fill="#cccccc" stroke="#666666" stroke-width="2" pointer-events="all"/>
+    <path d="M 280 95 L 280 230" fill="none" stroke="#666666" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 260 230 L 300 230 L 300 270 L 260 270 Z" fill="#999999" stroke="#666666" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 130px; margin-left: 231px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">AT875R<br />Shotgun Mic<br />(Right)</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="280" y="133" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle" font-weight="bold">AT875R...</text>
+      </switch>
+    </g>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 250px; margin-left: 261px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Boom<br />Stand</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="280" y="252" fill="#000000" font-family="Helvetica" font-size="8px" text-anchor="middle">Boom...</text>
+      </switch>
+    </g>
+    
+    <!-- XLR cables from shotgun mics to mixer -->
+    <path d="M 120 270 Q 120 375 470 480" fill="none" stroke="#0066cc" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 345px; margin-left: 260px;">
+            <div data-drawio-colors="color: #0066cc; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 102, 204); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">XLR Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="260" y="348" fill="#0066cc" font-family="Helvetica" font-size="9px" text-anchor="middle">XLR Cable</text>
+      </switch>
+    </g>
+    
+    <path d="M 280 270 Q 280 375 470 500" fill="none" stroke="#0066cc" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 365px; margin-left: 350px;">
+            <div data-drawio-colors="color: #0066cc; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 102, 204); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">XLR Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="350" y="368" fill="#0066cc" font-family="Helvetica" font-size="9px" text-anchor="middle">XLR Cable</text>
+      </switch>
+    </g>
+    
+    <!-- SM57 Pit Mic -->
+    <ellipse cx="120" cy="380" rx="12" ry="12" fill="#cccccc" stroke="#666666" stroke-width="2" pointer-events="all"/>
+    <path d="M 120 392 L 120 450" fill="none" stroke="#666666" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <path d="M 105 450 L 135 450 L 135 480 L 105 480 Z" fill="#999999" stroke="#666666" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 415px; margin-left: 151px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Shure SM57<br />Pit Mic</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="190" y="418" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle" font-weight="bold">Shure SM57...</text>
+      </switch>
+    </g>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 28px; height: 1px; padding-top: 465px; margin-left: 106px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 8px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Mic<br />Stand</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="120" y="467" fill="#000000" font-family="Helvetica" font-size="8px" text-anchor="middle">Mic...</text>
+      </switch>
+    </g>
+    
+    <!-- XLR cable from SM57 to mixer -->
+    <path d="M 135 465 L 470 515" fill="none" stroke="#0066cc" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 475px; margin-left: 290px;">
+            <div data-drawio-colors="color: #0066cc; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 102, 204); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">XLR Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="290" y="478" fill="#0066cc" font-family="Helvetica" font-size="9px" text-anchor="middle">XLR Cable</text>
+      </switch>
+    </g>
+    
+    <!-- DI Box 1 (Top) -->
+    <rect x="920" y="600" width="100" height="60" rx="5" ry="5" fill="#ffffcc" stroke="#b8860b" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 630px; margin-left: 921px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Radial Pro DI<br />#1</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="970" y="633" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle" font-weight="bold">Radial Pro DI...</text>
+      </switch>
+    </g>
+    
+    <!-- DI Box 2 (Middle) -->
+    <rect x="1050" y="600" width="100" height="60" rx="5" ry="5" fill="#ffffcc" stroke="#b8860b" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 630px; margin-left: 1051px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Radial Pro DI<br />#2</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1100" y="633" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle" font-weight="bold">Radial Pro DI...</text>
+      </switch>
+    </g>
+    
+    <!-- DI Box 3 (Bottom) -->
+    <rect x="920" y="690" width="100" height="60" rx="5" ry="5" fill="#ffffcc" stroke="#b8860b" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 720px; margin-left: 921px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Radial Pro DI<br />#3</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="970" y="723" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle" font-weight="bold">Radial Pro DI...</text>
+      </switch>
+    </g>
+    
+    <!-- Instrument inputs (guitars/keyboards) -->
+    <ellipse cx="1100" cy="520" rx="40" ry="30" fill="#d4af37" stroke="#8b6914" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 520px; margin-left: 1061px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Guitar /<br />Keyboard</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1100" y="523" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle" font-weight="bold">Guitar /...</text>
+      </switch>
+    </g>
+    
+    <!-- TS instrument cable from guitar to DI 1 -->
+    <path d="M 1070 545 L 990 600" fill="none" stroke="#8b6914" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 565px; margin-left: 1035px;">
+            <div data-drawio-colors="color: #8b6914; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(139, 105, 20); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">TS Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1035" y="568" fill="#8b6914" font-family="Helvetica" font-size="9px" text-anchor="middle">TS Cable</text>
+      </switch>
+    </g>
+    
+    <!-- TS instrument cable from guitar to DI 2 -->
+    <path d="M 1100 550 L 1100 600" fill="none" stroke="#8b6914" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 575px; margin-left: 1115px;">
+            <div data-drawio-colors="color: #8b6914; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(139, 105, 20); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">TS Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1115" y="578" fill="#8b6914" font-family="Helvetica" font-size="9px" text-anchor="middle">TS Cable</text>
+      </switch>
+    </g>
+    
+    <!-- TRS cable from keyboard to DI 3 -->
+    <ellipse cx="1000" cy="780" rx="40" ry="30" fill="#d4af37" stroke="#8b6914" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 780px; margin-left: 961px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Keyboard<br />(Stereo)</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1000" y="783" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle" font-weight="bold">Keyboard...</text>
+      </switch>
+    </g>
+    
+    <path d="M 990 750 L 970 740" fill="none" stroke="#8b6914" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 735px; margin-left: 1010px;">
+            <div data-drawio-colors="color: #8b6914; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(139, 105, 20); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">TRS Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="1010" y="738" fill="#8b6914" font-family="Helvetica" font-size="9px" text-anchor="middle">TRS Cable</text>
+      </switch>
+    </g>
+    
+    <!-- XLR cables from DI boxes to mixer -->
+    <path d="M 920 630 L 730 540" fill="none" stroke="#0066cc" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 570px; margin-left: 835px;">
+            <div data-drawio-colors="color: #0066cc; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 102, 204); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">XLR Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="835" y="573" fill="#0066cc" font-family="Helvetica" font-size="9px" text-anchor="middle">XLR Cable</text>
+      </switch>
+    </g>
+    
+    <path d="M 1050 630 L 730 555" fill="none" stroke="#0066cc" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 585px; margin-left: 900px;">
+            <div data-drawio-colors="color: #0066cc; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 102, 204); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">XLR Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="900" y="588" fill="#0066cc" font-family="Helvetica" font-size="9px" text-anchor="middle">XLR Cable</text>
+      </switch>
+    </g>
+    
+    <path d="M 920 720 L 730 555" fill="none" stroke="#0066cc" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 620px; margin-left: 835px;">
+            <div data-drawio-colors="color: #0066cc; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 102, 204); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">XLR Cable</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="835" y="623" fill="#0066cc" font-family="Helvetica" font-size="9px" text-anchor="middle">XLR Cable</text>
+      </switch>
+    </g>
+    
+    <!-- Power connection from rack to mixer -->
+    <path d="M 600 700 L 600 560" fill="none" stroke="#cc0000" stroke-width="3" stroke-miterlimit="10" pointer-events="stroke"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 630px; margin-left: 620px;">
+            <div data-drawio-colors="color: #cc0000; background-color: #ffffff; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(204, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">Power</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="620" y="633" fill="#cc0000" font-family="Helvetica" font-size="9px" text-anchor="middle">Power</text>
+      </switch>
+    </g>
+    
+    <!-- Legend -->
+    <rect x="20" y="700" width="200" height="120" rx="8" ry="8" fill="#f9f9f9" stroke="#999999" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 198px; height: 1px; padding-top: 707px; margin-left: 21px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+              <div style="display: inline-block; font-size: 10px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Legend:</b><br /><span style="color: #0066cc;">━━━</span> XLR Audio Cable<br /><span style="color: #8b6914;">━━━</span> TS/TRS Instrument Cable<br /><span style="color: #cc6600;">━━━</span> XLR Speaker Cable<br /><span style="color: #cc0000;">━━━</span> Power Cable<br /><span style="color: #009900;">- - -</span> WiFi Connection</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="21" y="717" fill="#000000" font-family="Helvetica" font-size="10px">Legend:...</text>
+      </switch>
+    </g>
+    
+    <!-- Notes section -->
+    <rect x="250" y="700" width="180" height="120" rx="8" ry="8" fill="#fff8dc" stroke="#999999" stroke-width="2" pointer-events="all"/>
+    <g transform="translate(-0.5 -0.5)">
+      <switch>
+        <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+          <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 178px; height: 1px; padding-top: 707px; margin-left: 251px;">
+            <div data-drawio-colors="color: #000000; " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+              <div style="display: inline-block; font-size: 9px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;"><b>Phase 1 Equipment:</b><br />• 2x AT875R Shotgun Mics<br />• 1x SM57 Pit Mic<br />• 3x Radial Pro DI Boxes<br />• 1x XR18 Digital Mixer<br />• 1x QSC K12.2 Speaker<br />• 1x Tablet (WiFi Control)<br />• Cables &amp; Power</div>
+            </div>
+          </div>
+        </foreignObject>
+        <text x="251" y="716" fill="#000000" font-family="Helvetica" font-size="9px">Phase 1 Equipment:...</text>
+      </switch>
+    </g>
+  </g>
+</svg>
