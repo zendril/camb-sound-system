@@ -1,6 +1,6 @@
 This is the equipment list for the sound system, and information about its availability and what phase it is targeted for.
 
-[View Diagram](phase1-diagram.drawio.svg)
+![View Diagram](phase1-diagram.drawio.svg)
 
 ## Equipment List
 
