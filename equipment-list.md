@@ -21,6 +21,7 @@ This is the equipment list for the sound system, and information about its avail
 | Accessories | Speaker cable or high-quality XLRs for QSC K12.2 | 1 | 1 | [Amazon](https://www.amazon.com/Mogami-Gold-Studio-Cable-25-Foot/dp/B000V9OB4E) | $45 |
 | Solo Mics (Wireless) | Shure SLXD4 Dual Channel wireless microphone | 1 | 2 | [Amazon](https://a.co/d/hZ3IiMe) | $849 |
 | Solo Mics (Wireless) | Countryman instrument clip-on mic | 2 | 2 | [Sweetwater](https://www.sweetwater.com/store/detail/B3OM5FF05L--countryman-b3-omnidirectional-lavalier-with-standard-gain-for-line-6-black) | $289 |
+| Main Speaker | QSC KS118 18" Subwoofer | 1 | 2 | [Amazon](https://a.co/d/7kjba0D) | 2,499.99 |
 | Main Speaker | QSC K12.2 Powered Loudspeaker | 1 | 2 | [Sweetwater](https://www.sweetwater.com/store/detail/K12.2--qsc-k12.2-2000w-12-inch-powered-speaker) | $999 |
 
 
