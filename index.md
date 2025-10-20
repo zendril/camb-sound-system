@@ -1,5 +1,3 @@
-# CAMB Sound System
-
 This is the equipment list for the sound system, and information about its availability and what phase it is targeted for.
 
 ## Phase 1 Diagram
